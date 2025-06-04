@@ -1,3 +1,6 @@
-`This repository contains simple pytorch implementation of our paper RCNet.`
+# <p align=center>`RCNet: Reliable Co-training Network for Weakly Supervised Change Detection`</p>
+
 ## News
 Repo is created in 2024-08-01. Code will come soon.
+
+## code is still being organized and constantly updated
