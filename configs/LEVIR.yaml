@@ -6,7 +6,7 @@ backbone:
 scheme: transwcd_dual # transwcd_single, transwcd_dual
 
 dataset:
-  root_dir: /media/zhihui/1172508c-c4a0-4673-adc9-b86bc5d0bd9e/File/Reseacher/Paper/ours/Paper5/WSCD/dataset/LEVIR_256
+  root_dir: /media/zhihui/WSCD/dataset/LEVIR_256
   name_list_dir: datasets/LEVIR
   num_classes: 2
   crop_size: 256
